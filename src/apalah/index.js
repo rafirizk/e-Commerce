@@ -1,4 +1,4 @@
-class  extends Component {
+class Lala extends Component {
     state = {  }
     render() { 
         return ( 
@@ -7,4 +7,4 @@ class  extends Component {
     }
 }
  
-export default ;
+export default Lala;
