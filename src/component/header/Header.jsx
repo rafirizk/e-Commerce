@@ -12,7 +12,10 @@ import {
   DropdownMenu,
   DropdownItem,
   NavbarText
-} from 'reactstrap';    
+} from 'reactstrap';
+import './Header.css'
+import {FiUser} from 'react-icons/fi'
+
 
 const Example = (props) => {
   const [isOpen, setIsOpen] = useState(false);
@@ -21,7 +24,7 @@ const Example = (props) => {
 
   return (
     <div>
-      <Navbar className="navbar fixed-top navbar-dark bg-dark" color="light" light expand="md">
+      <Navbar className="headerZalora" dark expand="md">
         <NavbarBrand href="/">Z A L O R A</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
@@ -55,21 +58,12 @@ const Example = (props) => {
                 </DropdownItem>
               </DropdownMenu>
             </UncontrolledDropdown> */}
-            
+            <input className="form-control w-120" type="search" placeholder="Search" aria-label="Search"/>
+            <button className="mx-2">U</button>
+            <button className="mx-2">W</button>
+            <button className="mx-2">C</button>
           </Nav>
-            <form className="form-inline my-2 my-lg-0">
-            <input className="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search"/>
-            <button className="btn btn-outline my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
-            </form>
-            <button className="btn-watchvideo"><i class="far fa-heart"></i></button>
-
-            <nav class="navbar navbar-light bg-light">
-            <a class="navbar-brand" href="#">
-            </a>
-            </nav>
-            
-          <NavbarText>Simple Text</NavbarText>
-        </Collapse>
+          </Collapse>
       </Navbar>
     </div>
   );
