@@ -1,0 +1,41 @@
+{
+    "users": [
+        {
+            "username": "rafirizkimaulana@gmail.com",
+            "password": "test12",
+            "id": 1
+        }
+    ],
+    "userdetails": [
+        {
+            "userId" : 1,
+            "gender" : "Pria",
+            "nama": "",
+            "phoneNumber": 0,
+            "address": "",
+            "kelurahan" : "",
+            "kecamatan" : "",
+            "kota" : "",
+            "provinsi" : "",
+            "id": 1
+        }
+    ],
+    "product": [
+        {
+            "name": "",
+            "picture": "",
+            "id": 1,
+            "price": 0,
+            "description": "",
+            "size": "",
+            "stock": 10
+        }
+    ],
+    "admin": [
+        {
+            "username": "admin",
+            "password": "admin1",
+            "id": 1
+        }
+    ]
+}
