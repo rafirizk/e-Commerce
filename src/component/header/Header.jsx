@@ -11,7 +11,6 @@ import {
   DropdownToggle,
   DropdownMenu,
   DropdownItem,
-  NavbarText
 } from 'reactstrap';
 import {FaUserAstronaut, FaCartArrowDown} from 'react-icons/fa'
 import { IconName } from "react-icons/fa";

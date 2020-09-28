@@ -3,7 +3,7 @@ import { UncontrolledCarousel, Row, Col } from "reactstrap";
 import items from '../../component/Carousel';
 import Homescreen from '../../assets/zalora.gif'
 import Header from '../../component/header/Header'
-import { MDBCol, MDBContainer, MDBRow, MDBFooter } from 'mdbreact';
+import Footer from '../../component/footer/Footer'
 
 class Home extends Component {
     state = { }
@@ -28,23 +28,7 @@ class Home extends Component {
                 <div className='text-black mt-5 px-1 py-1' style={{height:'8vh'}}>
                     <h3 className='d-flex justify-content-center' >Shop By Categories</h3>
                 </div><br/><br/>
-                <MDBFooter className="pt-4 mt-4">
-                    <MDBContainer fluid className="text-center text-md-left text-white" style={{height:'500px', backgroundColor:'#000000'}}>
-                        <MDBRow>
-                            <MDBCol md="6"><br/>
-                                <h1 className="title text-white" style={{fontSize:'40px'}} >Z A L O R A</h1><br></br>
-                                <p>
-                                Sebagai Pusat Fashion Online di Asia, kami menciptakan kemungkinan-kemungkinan gaya tanpa batas dengan cara memperluas jangkauan produk, mulai dari produk internasional hingga produk lokal dambaan. Kami menjadikan Anda sebagai pusatnya.
-                                </p>
-                            </MDBCol>
-                        </MDBRow>
-                        <MDBRow>
-                            <a className="btn-floating btn-lg btn-fb" type="button" role="button"><i className="fab fa-facebook-f"></i></a>
-                            <a className="btn-floating btn-lg btn-tw" type="button" role="button"><i className="fab fa-twitter"></i></a>
-                            <a className="btn-floating btn-lg btn-gplus" type="button" role="button"><i className="fab fa-google-plus-g"></i></a>
-                        </MDBRow>
-                    </MDBContainer>
-                </MDBFooter>
+                <Footer/>
             </div>
     );
 }
