@@ -1,3 +1,5 @@
+/* HEADER */
+
 .headerZalora {
     background-color: black;
     padding: 0 16px;
@@ -5,4 +7,9 @@
 
 .searchBar {
     width: 50%;
+}
+
+.headerIcon {
+    font-size:20px !important; 
+    color:white !important
 }

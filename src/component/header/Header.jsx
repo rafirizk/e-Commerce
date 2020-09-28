@@ -13,8 +13,13 @@ import {
   DropdownItem,
   NavbarText
 } from 'reactstrap';
+import {FaUserAstronaut, FaCartArrowDown} from 'react-icons/fa'
+import { IconName } from "react-icons/fa";
+import Button from '@material-ui/core/Button';
 import './Header.css'
-import {FiUser} from 'react-icons/fi'
+import {FiHeart} from 'react-icons/fi'
+import { colors } from '@material-ui/core';
+
 
 
 const Example = (props) => {
@@ -24,7 +29,7 @@ const Example = (props) => {
 
   return (
     <div>
-      <Navbar className="headerZalora" dark expand="md">
+      <Navbar  fixed="top" className="headerZalora" dark expand="md">
         <NavbarBrand href="/">Z A L O R A</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
@@ -39,30 +44,35 @@ const Example = (props) => {
               <NavLink href="/pria/">PRIA</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/pria/">ANAK</NavLink>
+              <NavLink href="/anak/">ANAK</NavLink>
             </NavItem>
-            {/* <UncontrolledDropdown nav inNavbar>
-              <DropdownToggle nav caret>
-                Options
-              </DropdownToggle>
-              <DropdownMenu right>
-                <DropdownItem>
-                  Option 1
-                </DropdownItem>
-                <DropdownItem>
-                  Option 2
-                </DropdownItem>
-                <DropdownItem divider />
-                <DropdownItem>
-                  Reset
-                </DropdownItem>
-              </DropdownMenu>
-            </UncontrolledDropdown> */}
-            <input className="form-control w-120" type="search" placeholder="Search" aria-label="Search"/>
-            <button className="mx-2">U</button>
-            <button className="mx-2">W</button>
-            <button className="mx-2">C</button>
+            
+            
           </Nav>
+          <input className="form-control w-120" type="search" placeholder="Search" aria-label="Search"/>
+            <UncontrolledDropdown>
+              <DropdownToggle nav>
+                <Button className="headerIcon" ><FaUserAstronaut/></Button>    
+              </DropdownToggle>
+              <DropdownMenu>
+                <DropdownItem disabled>SELAMAT DATANG!</DropdownItem>
+                <DropdownItem divider />
+                <DropdownItem>MASUK</DropdownItem>
+                <DropdownItem>BUAT AKUN</DropdownItem>
+                <DropdownItem>LIHAT STATUS PESANAN</DropdownItem>
+                <DropdownItem>KONFIRMASI TRANSFER</DropdownItem>
+                <DropdownItem>BANTUAN</DropdownItem>
+              </DropdownMenu>
+            </UncontrolledDropdown>
+            <UncontrolledDropdown>
+              <DropdownToggle nav>
+              	<Button className="headerIcon" ><FiHeart/></Button>         
+              </DropdownToggle>
+              <DropdownMenu>
+                <DropdownItem>KAMU PUNYA PRODUK DI <br/> WISHLIST KAMU</DropdownItem>
+              </DropdownMenu>
+            </UncontrolledDropdown>
+            <Button className="headerIcon" ><FaCartArrowDown/></Button>  
           </Collapse>
       </Navbar>
     </div>
