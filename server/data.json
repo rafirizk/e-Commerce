@@ -1,0 +1,238 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "",
+        "password": "",
+        "role": ""
+      },
+      {
+        "id": 2,
+        "username": "",
+        "password": "",
+        "role": ""
+      },
+      {
+        "id": 3,
+        "username": "",
+        "password": "",
+        "role": ""
+      }
+    ],
+
+    "products": [
+      {
+        "name": "Sepatu Olahraga",
+        "picture": "https://id.pinterest.com/pin/642044490620802312/",
+        "id": 1,
+        "price": "300000",
+        "description": "Shipped within 24 hours, (Upon confirmation of payment)"
+      },
+      {
+        "name": "Sandal",
+        "picture": "https://id.pinterest.com/pin/806003664556042533/",
+        "id": 2,
+        "price": "150000",
+        "description": "Shipped within 24 hours, (Upon confirmation of payment)"
+      },
+      {
+        "name": "Sepatu Formal",
+        "picture": "https://id.pinterest.com/pin/331014641356408621/",
+        "id": 3,
+        "price": "250000",
+        "description": "Shipped within 24 hours, (Upon confirmation of payment)"
+      },
+      {
+        "name": "Sneaker",
+        "picture": "https://id.pinterest.com/pin/152489137375875795/",
+        "id": 4,
+        "price": "200000",
+        "description": "Shipped within 24 hours, (Upon confirmation of payment)"
+      },
+      {
+        "name": "Kaos",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fid-test-11.slatic.net%2Fp%2F7%2Fkaosbro-kaos-t-shirt-o-neck-lengan-pendek-hitam-9022-15872311-bd4a34f84f6766a58372e7d30c52a911-catalog.jpg_340x340q80.jpg_.webp&imgrefurl=https%3A%2F%2Fwww.lazada.co.id%2Fproducts%2Fkaos-hujjah-cloth-kaos-t-shirt-o-neck-lengan-pendek-hitam-kaos-pria-kaos-wanita-kaos-distro-kaos-polos-kaos-pria-distro-kaos-pria-keren-kaos-pria-distro-bandung-kaos-pria-murah-baju-wanita-baju-atasan-wanita-i11689981.html&tbnid=Jl_bogvusuRF9M&vet=12ahUKEwiLga3JvJvsAhXexHMBHUrzBTYQMygDegUIARDlAQ..i&docid=k1TsP27gb21_5M&w=340&h=340&q=kaos&safe=strict&ved=2ahUKEwiLga3JvJvsAhXexHMBHUrzBTYQMygDegUIARDlAQ",
+        "id": 5,
+        "price": "100000",
+        "description": "Shipped within 24 hours, (Upon confirmation of payment)"
+      },
+      {
+        "name": "Kemeja",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fid-test-11.slatic.net%2Fp%2F8506383b39bb2358d1f82240272a8dad.jpg_340x340q80.jpg_.webp&imgrefurl=https%3A%2F%2Fwww.lazada.co.id%2Fproducts%2Flk007_baju-kemeja-pria-kemeja-pria-terbaru-2020-lengan-pendek-casual-paling-laris-kemeja-lapangan-hype-quality-pourpose-2020-i955196508.html&tbnid=PooBKztq6fnsMM&vet=12ahUKEwiWzNLbvJvsAhWbMrcAHdL3CQUQMygFegUIARDsAQ..i&docid=DIESsB54A-ACqM&w=340&h=340&q=kemeja&safe=strict&ved=2ahUKEwiWzNLbvJvsAhWbMrcAHdL3CQUQMygFegUIARDsAQ",
+        "id": 6,
+        "price": "150000",
+        "description": "Shipped within 24 hours, (Upon confirmation of payment)"
+      },
+      {
+        "name": "Jacket",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic.zacdn.com%2FM1DUaTG4Y0YEaZE52pN122H0Q-M%3D%2Ffit-in%2F346x500%2Ffilters%3Aquality(90)%3Afill(ffffff)%2Fhttp%3A%2F%2Fstatic.id.zalora.net%2Fp%2Fhemmeh-0635-5705302-1.jpg&imgrefurl=https%3A%2F%2Fwww.zalora.co.id%2Fhemmeh-jaket-parka-coklat-mocca-hemmeh-new-brown-2035075.html&tbnid=nhMAXWczCyDzXM&vet=12ahUKEwjYqdXwvJvsAhWbMrcAHdL3CQUQMygQegUIARCrAg..i&docid=WMYUDh4fazU44M&w=346&h=500&q=jaket&safe=strict&ved=2ahUKEwjYqdXwvJvsAhWbMrcAHdL3CQUQMygQegUIARCrAg",
+        "id": 7,
+        "price": "250000",
+        "description": "Shipped within 24 hours, (Upon confirmation of payment)"
+      },
+      {
+        "name": "Sweater",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.edgars.co.za%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F3d5f94c5bc6952a203ae938f4bddb596%2Fc%2F2%2Fc2dbe67ac87219452e4e313d5f3ff151a9f8bb19_34919864_1.jpg&imgrefurl=https%3A%2F%2Fwww.edgars.co.za%2Fbasic-sweater-c34919864&tbnid=2e3aklnxe4sgBM&vet=12ahUKEwjRkvWFvZvsAhVwkksFHYGIDtcQMygKegUIARCbAg..i&docid=Ov6H5hPqT73gTM&w=551&h=700&q=sweater&safe=strict&ved=2ahUKEwjRkvWFvZvsAhVwkksFHYGIDtcQMygKegUIARCbAg",
+        "id": 8,
+        "price": "200000",
+        "description": "Shipped within 24 hours, (Upon confirmation of payment)"
+      },
+      {
+        "name": "Backpack",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F91cjHJE3JDL._AC_SL1500_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FAmazonbasics-Classic-School-Backpack-Black%2Fdp%2FB013TGEJEE&tbnid=SXwaqBIexwCHyM&vet=12ahUKEwjjtMncvZvsAhVRl-YKHU20B2sQMygDegUIARCIAg..i&docid=njQ9xhLAubQJhM&w=1027&h=1500&q=backpack&safe=strict&ved=2ahUKEwjjtMncvZvsAhVRl-YKHU20B2sQMygDegUIARCIAg",
+        "id": 9,
+        "price": "150000",
+        "description": "Shipped within 24 hours, (Upon confirmation of payment)"
+      },
+      {
+        "name": "Totebag",
+        "picture": "https://www.google.com/imgres?imgurl=http%3A%2F%2Ftoolsandtoys.net%2Fwp-content%2Fuploads%2F2019%2F08%2F1FB61DB0-47D1-4C14-B178-2AAF86A832EE-1440x1920.jpeg&imgrefurl=http%3A%2F%2Ftoolsandtoys.net%2Freviews%2Fbellroy-tokyo-totepack-review%2F&tbnid=bIyDiddtouKbiM&vet=12ahUKEwiN0eqFvpvsAhXaEnIKHRbGAxQQMygGegUIARDqAg..i&docid=EQF4a4aJZriIWM&w=1440&h=1920&q=tote%20pack&safe=strict&ved=2ahUKEwiN0eqFvpvsAhXaEnIKHRbGAxQQMygGegUIARDqAg",
+        "id": 10,
+        "price": "100000",
+        "description": "Shipped within 24 hours, (Upon confirmation of payment)"
+      },
+      {
+        "name": "Slingbag",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.jakartanotebook.com%2Fimages%2Fproducts%2F101%2F645%2F34625%2F138%2Fnaturehike-tas-sling-bag-sporty-fashion-black-or-blue-1.jpg&imgrefurl=https%3A%2F%2Fwww.jakartanotebook.com%2Fnaturehike-tas-sling-bag-sporty-fashion-black-or-blue&tbnid=wC8qlfBDxMffPM&vet=12ahUKEwj58omYvpvsAhVVMysKHYt4AUIQMygfegUIARDbAg..i&docid=m8linpt7B8pk5M&w=581&h=581&q=sling%20bag&safe=strict&ved=2ahUKEwj58omYvpvsAhVVMysKHYt4AUIQMygfegUIARDbAg",
+        "id": 11,
+        "price": "80000",
+        "description": "Shipped within 24 hours, (Upon confirmation of payment)"
+      },
+      {
+        "name": "Travelbag",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ftwicpics.celine.com%2Fproducts%2Fdw15b22fa7%2Fimages%2Flarge%2F190672BRK.38NO_2_FALL19_387186v2.jpg%3Fsw%3D1333%26sh%3D1846%26sm%3Dfit%26strip%3Dfalse&imgrefurl=https%3A%2F%2Fwww.celine.com%2Fen-lu%2Fceline-shop-men%2Fbags%2Ftravel-bags%2Flarge-travel-bag--in-triomphe-canvas-and-calfskin-190672BRK.38NO.html&tbnid=P-AckRS_DAo6xM&vet=12ahUKEwjbiuSqvpvsAhVYSn0KHVj9DwMQMygCegUIARCDAg..i&docid=LSLo-oC93eeZgM&w=1333&h=1333&q=travel%20bag&safe=strict&ved=2ahUKEwjbiuSqvpvsAhVYSn0KHVj9DwMQMygCegUIARCDAg",
+        "id": 12,
+        "price": "200000",
+        "description": "Shipped within 24 hours, (Upon confirmation of payment)"
+      }
+    ],
+    "carts": [
+      {
+        "userId": 1,
+        "productId": 4,
+        "qty": 2,
+        "id": 1
+      }
+    ],
+    "transactions": [
+      {
+        "status": "Completed",
+        "userId": 1,
+        "tanggalPembayaran": 1600228677900,
+        "metode": "cc",
+        "buktipembayaran": "321321313123123",
+        "id": 2
+      },
+      {
+        "status": "Completed",
+        "userId": 1,
+        "tanggalPembayaran": 1600229071836,
+        "metode": "upload",
+        "buktipembayaran": "https://www.pakaiatm.com/wp-content/uploads/2020/03/Contoh-Bukti-Transfer-BRI-Asli-atau-Palsu.jpg",
+        "id": 3
+      },
+      {
+        "status": "Completed",
+        "userId": 1,
+        "tanggalPembayaran": 1600438527417,
+        "metode": "cc",
+        "buktipembayaran": "32312312321321321323",
+        "id": 4
+      },
+      {
+        "status": "Completed",
+        "userId": 1,
+        "tanggalPembayaran": 1600510255731,
+        "metode": "cc",
+        "buktipembayaran": "4012888888881881",
+        "id": 5
+      },
+      {
+        "status": "WaitingAdmin",
+        "userId": 1,
+        "tanggalPembayaran": 1600521748562,
+        "metode": "upload",
+        "buktipembayaran": "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/1/21/5677080/5677080_cf2ef623-8e05-4c90-80ec-0a6edb107d3e_648_648.jpg",
+        "id": 6
+      }
+    ],
+    "transactionsdetails": [
+      {
+        "transactionId": 2,
+        "productId": 2,
+        "price": 300002,
+        "qty": 2,
+        "id": 3
+      },
+      {
+        "transactionId": 2,
+        "productId": 2,
+        "price": 300002,
+        "qty": 2,
+        "id": 4
+      },
+      {
+        "transactionId": 2,
+        "productId": 3,
+        "price": 200000,
+        "qty": 1,
+        "id": 5
+      },
+      {
+        "transactionId": 3,
+        "productId": 1,
+        "price": 200000,
+        "qty": 1,
+        "id": 6
+      },
+      {
+        "transactionId": 3,
+        "productId": 5,
+        "price": 999000,
+        "qty": 1,
+        "id": 7
+      },
+      {
+        "transactionId": 4,
+        "productId": 1,
+        "price": 200000,
+        "qty": 6,
+        "id": 8
+      },
+      {
+        "transactionId": 4,
+        "productId": 4,
+        "price": 500000,
+        "qty": 4,
+        "id": 9
+      },
+      {
+        "transactionId": 4,
+        "productId": 5,
+        "price": 999000,
+        "qty": 2,
+        "id": 10
+      },
+      {
+        "transactionId": 5,
+        "productId": 4,
+        "price": 500000,
+        "qty": 2,
+        "id": 11
+      },
+      {
+        "transactionId": 6,
+        "productId": 4,
+        "price": 500000,
+        "qty": 2,
+        "id": 12
+      },
+      {
+        "transactionId": 6,
+        "productId": 5,
+        "price": 999000,
+        "qty": 2,
+        "id": 13
+      }
+    ]
+  }
